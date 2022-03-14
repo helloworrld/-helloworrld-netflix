@@ -1,0 +1,14 @@
+body {
+    background: #000;
+}
+#header {
+    background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url(assets/background.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 80vh;
+    width: 100%;
+}
+#header .nav {
+    background: transparent;
+}
